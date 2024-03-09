@@ -70,7 +70,7 @@ education:
       university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
       time: 2020 - 2022
       details: | 
-      Durante mi formación en Administración de Sistemas Informáticos en Red (ASIX), he adquirido una amplia gama de conocimientos, incluyendo la instalación y configuración de sistemas operativos, la administración de redes y servidores, la seguridad informática y la resolución de problemas técnicos.
+        Durante mi formación en Administración de Sistemas Informáticos en Red (ASIX), he adquirido una amplia gama de conocimientos, incluyendo la instalación y configuración de sistemas operativos, la administración de redes y servidores, la seguridad informática y la resolución de problemas técnicos.
     - degree: Desarrollador de aplicacioens multiplataforma
       university: Bemen3
       # optional
@@ -87,7 +87,8 @@ experiences:
       # optional
       company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
       details: |
-        Creación de aplicaciones multiplataforma mediante lowcode en entorno Microsoft con las herramientas proporcioandas por Power Apps, Power Automate y herramientas ofimaticas
+        Creación de aplicaciones multiplataforma mediante lowcode en entorno Microsoft con las herramientas proporcioandas por Power Apps, 
+        Power Automate y herramientas ofimaticas
 
     - role: Helpdesk
       time: Enero 2022 - Junio 2022
@@ -95,7 +96,7 @@ experiences:
       # optional
       company_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
       details: |
-      Soporte a diferentes de empresas con gestiones basicas de Windows Server y gestión de usuarios.
+        Soporte a diferentes de empresas con gestiones basicas de Windows Server y gestión de usuarios.
         
 
 # Your project portfolio
